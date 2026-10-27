@@ -32,7 +32,7 @@
 
 > 需要 macOS 13 或更新版本，Apple 芯片和 Intel 芯片的 Mac 都能用。
 
-1. 到 [Releases](../../releases/latest) 下载 `桌面奶蛙.zip`，双击解压
+1. 到 [Releases](../../releases/latest) 下载 `Desktop-Naiwa-macOS.zip`，双击解压
 2. 把「桌面奶蛙.app」拖进「应用程序」文件夹
 3. 第一次打开：因为没有付费的苹果开发者签名，macOS 会提示「无法验证开发者」。处理方法：
    - 先双击打开一次，看到提示后点「完成」
